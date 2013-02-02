@@ -1,0 +1,75 @@
+
+		BATCH REPORT. Sat, 02 Feb 2013 00:16:14 -0800
+		This report is online at http://springcg.com/analytics/facebook/reports/batch_report.2013-02-02.1111111173.96
+
+BATCH DETAIL: Stored Results: 0. Batched Queries: 55763. Batched Remaining: 0. Batch Added Today: 350. Batch Run Today: 350. Queries Today: 350. 
+
+MESSAGES TODAY: 
+
+	***Message: Application: 111111116361. Name: Microsoft Access. Category: Software. Owner Email: abcde@gmail.com. Query: /111111116361. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111118988. Name: Office Staging. Category: Product/service. Owner Email: abcde@gmail.com. Query: /111111118988. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111110147. Name: Microsoft OneNote. Category: Software. Owner Email: abcde@gmail.com. Query: /111111110147. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111111802005. Name: Office 365. Category: Product/service. Owner Email: qwerty@gmail.com. Query: /111111111802005. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111114529155. Name: Microsoft Office Web Apps. Category: Software. Owner Email: abcde@gmail.com. Query: /111111114529155. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111117899358. Name: Microsoft Office Mobile. Category: Software. Owner Email: abcde@gmail.com. Query: /111111117899358. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111110369. Name: Microsoft Office. Category: Software. Owner Email: abcde@gmail.com. Query: /111111110369. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111118064. Name: American Laser Skincare. Category: Product/service. Owner Email: qwerty@gmail.com. Query: /111111118064. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 111111116667. Name: Office For Mac. Category: Product/service. Owner Email: qwerty@gmail.com. Query: /111111116667. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 11111111145. Name: Office Students. Category: Product/service. Owner Email: abcde@gmail.com. Query: /11111111145. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 11111111619. Name: Microsoft Outlook. Category: Product/service. Owner Email: abcde@gmail.com. Query: /11111111619. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 11111111674. Name: Microsoft Word. Category: Software. Owner Email: abcde@gmail.com. Query: /11111111674. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 11111111366. Name: Microsoft Excel. Category: Software. Owner Email: abcde@gmail.com. Query: /11111111366. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+	***Message: Application: 11111111861. Name: Microsoft Publisher. Category: Product/service. Owner Email: abcde@gmail.com. Query: /11111111861. Message: ERROR The user must be an administrator of the page in order to impersonate it.. 
+
+DATA DUMP: scgaBatch Object
+(
+    [countBatched] => 350
+    [countStarting] => 350
+    [countRemaining] => 0
+    [countRunMaxium] => 400
+    [unixTimes] => Array
+        (
+            [86400] => day
+            [604800] => week
+            [2592000] => month
+            [0] => lifetime
+        )
+
+    [user] => 
+    [accounts] => 
+    [jobs] => scgaJobs Object
+        (
+        )
+
+    [errors] => 
+    [log] => 
+    [silos] => scgaSilo Object
+        (
+            [defaultSilo] => scga_results
+        )
+
+    [facebook] => Facebook Object
+        (
+            [appId:protected] => 111111112428789
+            [apiSecret:protected] => 03b66e111111110640ef1002bf0c9d65
+            [user:protected] => 
+            [signedRequest:protected] => 
+            [state:protected] => 
+            [accessToken:protected] => 111111112428789|03b66e111111110640ef1002bf0c9d65
+            [fileUploadSupport:protected] => 
+        )
+
+)
